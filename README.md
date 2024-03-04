@@ -38,6 +38,6 @@ People have ways of solving PDEs on digital computers, and the idea was just to 
 
 
 <p align="center">
-<img src="/images/0.png" alt="4 fold band" width="300"/>
-<img src="/images/1.png" alt="6 fold band" width="300"/>
+<img src="/images/0.png" alt="4 fold band" width="400"/>
+<img src="/images/1.png" alt="6 fold band" width="400"/>
 </p>
