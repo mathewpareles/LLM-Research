@@ -1,7 +1,7 @@
 
 
 
-## Rotations and Superconductivity
+## Superconductivity and Rotations 
 
 
 The goal of my Master's thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We showed that you can  more easily create the conditions needed for superconductivity in rotationally symmetric materials than in arbitrary materials.
@@ -29,7 +29,7 @@ In my thesis, I compute the DOS for high-symmetry materials beyond the ones show
 
 
 
-## Differential Equations and Quantum Computers
+## Quantum Computers and Differential Equations
 
 In my undergraduate, I studied how to use Quantum Computers to solve Partial Differential Equations (PDEs) like the Heat Equation and Burger's Equation.
 People can solve PDEs on digital computers, and I translated them to be used on a Quantum Computer. Here are some of the simulations of the Heat and Advection Equations that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer.
