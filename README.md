@@ -39,7 +39,7 @@ In order to accurately simulate the Energy Spectrum of highly-symmetric material
 
 
 
-People have ways of solving PDEs on digital computers, and one idea is to translate those methods to be used on a Quantum Computer. Once you have this idea, the steps you take are pretty straightforward. Here are some of the simulations I did in my undergraduate research, which I ran on my laptop (that's right, I simulated a quantum computer on my laptop - this summarizes the state of the art pretty well...)
+People have ways of solving PDEs on digital computers, and one idea is to translate those methods to be used on a Quantum Computer. Once you have this idea, the steps you take are pretty straightforward. Here are some of the simulations of the Heat and Advection Equations that I did in my undergraduate research, which I ran on my laptop (that's right, I simulated a quantum computer on my laptop - this summarizes the state of the art pretty well...)
 
 
 <p align="center">
