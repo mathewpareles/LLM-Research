@@ -8,9 +8,9 @@ Right now, I'm making a better way to teach people math and science. I also thin
 ## Rotations and Superconductivity
 
 
-The goal of my Masters thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We were unable to prove that this does not work (but it's a different story to prove that it does work...).
+The goal of my Master's thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We were unable to prove that this does not work, but it's a different story to prove that it does work...
 
-Here are the types of materials we analyzed. 
+Here are some of the materials we analyzed (drawn in Reciprocal Space),
 
 <p align="center">
 <img src="/images/2.png" alt="4 fold mat" width="250"/>
@@ -20,7 +20,7 @@ Here are the types of materials we analyzed.
 
 
 
-Here are some of the Energies we found. When there's a very flat line, it means that the conditions for superconductivity might hold.
+Spikes in the Density of States (DOS) lead to instabilities in the material, which can lead to topological superconductivity. We computed the Energy Spectrum of the above materials, along with their DOS.
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
@@ -28,13 +28,18 @@ Here are some of the Energies we found. When there's a very flat line, it means 
 <!-- <img src="/images/7.png" alt="10 fold band" width="500"/> -->
 </p>
 
-There's a very involved calculation you have to do to compute this accurately, and I do it in my thesis.
+
+
+
+In order to accurately simulate the Energy Spectrum of highly-symmetric materials, one has to do a very involved calculation, which I do in my thesis. We were able to show that you can create instabilities in rotationally symmetric materials more easily than in arbitrary materials.
+
+
 
 ## Differential Equations and Quantum Computers
 
 
-In my undergrad, I did research on using Quantum Computers to simulate Partial Differential Equations. 
-People have ways of solving PDEs on digital computers, and the idea was just to translate those methods to be used on a Quantum Computer. Once you have this idea, the steps you take are pretty straightforward. Here are some of the simulations I did, which I ran on my laptop (that's right, I simulated a quantum computer on my laptop - this summarizes the state of the art pretty well...)
+
+People have ways of solving PDEs on digital computers, and one idea is to translate those methods to be used on a Quantum Computer. Once you have this idea, the steps you take are pretty straightforward. Here are some of the simulations I did in my undergraduate research, which I ran on my laptop (that's right, I simulated a quantum computer on my laptop - this summarizes the state of the art pretty well...)
 
 
 <p align="center">
