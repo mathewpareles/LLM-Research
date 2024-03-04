@@ -23,9 +23,9 @@ Here are the types of materials we analyzed (if you zoom in enough, the material
 Here are some of the Energies we found. When there's a very flat line, it means that the conditions for superconductivity might hold.
 
 <p align="center">
-<img src="/images/5.png" alt="4 fold band" width="150"/>
-<img src="/images/6.png" alt="6 fold band" width="150"/>
-<img src="/images/7.png" alt="10 fold band" width="150"/>
+<img src="/images/5.png" alt="4 fold band" width="300"/>
+<img src="/images/6.png" alt="6 fold band" width="300"/>
+<img src="/images/7.png" alt="10 fold band" width="300"/>
 </p>
 
 There's a very involved calculation you have to do to compute this accurately, and I do it in my thesis.
