@@ -1,7 +1,3 @@
-# My Work
-
-
-Right now, I'm making a better way to teach people math and science. Here are some of my past research interests. 
 
 
 
