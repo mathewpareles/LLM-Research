@@ -10,7 +10,7 @@ Right now, I'm making a better way to teach people math and science. I also thin
 
 The goal of my Masters thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We were unable to prove that this does not work (but it's a different story to prove that it does work...).
 
-Here are the types of materials we analyzed (if you zoom in enough, the material will look like that). 
+Here are the types of materials we analyzed. 
 
 <p align="center">
 <img src="/images/2.png" alt="4 fold mat" width="250"/>
