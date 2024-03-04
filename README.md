@@ -30,8 +30,7 @@ In the following plots of these materials, you can see that there are spikes in 
 
 
 
-
-To accurately simulate the Energy Spectrum of highly-symmetric materials, one has to do a very involved calculation, which I do in my thesis.
+To calculate the plots for highly-symmetric materials you have to do a pretty involved calculation, which I do in my thesis.
 
 
 
