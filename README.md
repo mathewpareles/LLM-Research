@@ -31,8 +31,7 @@ In my thesis, I compute the DOS for high-symmetry materials beyond the plots sho
 
 ## Quantum Computers and Differential Equations
 
-In my undergraduate, I studied how to use Quantum Computers to solve Partial Differential Equations (PDEs) like the Heat Equation and Burger's Equation.
-People can solve PDEs on digital computers, and I translated them to be used on a Quantum Computer. Here are some of the simulations of the Heat and Advection Equations that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer.
+In my undergraduate, I studied how to use Quantum Computers to solve Partial Differential Equations (PDEs) like the Heat Equation and Burger's Equation. Here are some of the simulations of the Heat and Advection Equations that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer.
 
 
 <p align="center">
