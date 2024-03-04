@@ -25,7 +25,7 @@ Here are some of the Energies we found. When there's a very flat line, it means 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="500"/>
 <img src="/images/6.png" alt="6 fold band" width="500"/>
-<img src="/images/7.png" alt="10 fold band" width="500"/>
+<!-- <img src="/images/7.png" alt="10 fold band" width="500"/> -->
 </p>
 
 There's a very involved calculation you have to do to compute this accurately, and I do it in my thesis.
