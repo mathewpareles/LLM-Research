@@ -25,7 +25,7 @@ In the following plots of these materials, you can see that there are spikes in 
 </p>
 
 
-In my thesis, I compute the DOS for high-symmetry materials beyond the ones shown here.
+In my thesis, I compute the DOS for high-symmetry materials beyond the plots shown above.
 
 
 
