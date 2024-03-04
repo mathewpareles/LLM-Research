@@ -20,7 +20,7 @@ Here are some of the materials we analyzed (drawn in Reciprocal Space),
 
 
 
-Spikes in the Density of States (DOS) lead to instabilities in the material, which can lead to topological superconductivity. In the following plots, you can see that there are spikes in the DOS.
+In the following plots of these materials, you can see that there are spikes in the DOS, which can lead to instabilities in the material, and lead to topological superconductivity.
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
