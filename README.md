@@ -20,7 +20,7 @@ Here are some of the materials we analyzed (drawn in Reciprocal Space),
 
 
 
-In the following plots of these materials, you can see that there are spikes in the DOS, which can lead to instabilities in the material including topological superconductivity.
+In the following plots of these materials, you can see that there are spikes in the DOS, which can lead to instabilities in the material (including topological superconductivity).
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
@@ -29,8 +29,7 @@ In the following plots of these materials, you can see that there are spikes in 
 </p>
 
 
-
-To calculate the plots for highly-symmetric materials you have to do a pretty involved calculation, which I do in my thesis.
+In my thesis, I compute the DOS for very high-symmetry materials including materials that are 8-fold and 10-fold rotationally symmetric.
 
 
 
