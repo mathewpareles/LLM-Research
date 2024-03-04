@@ -1,7 +1,7 @@
 # My Work
 
 
-Right now, I'm making a better way to teach people math and science. I also think about ML in my free time, and am most interested in methods of learning that go beyond gradient descent. I'm also interested in improving the Transformer architecture, and other architectures that are better suited for storing memories and reasoning. Here are some of my past research interests. 
+Right now, I'm making a better way to teach people math and science. I also think about ML in my free time. Here are some of my past research interests. 
 
 
 
