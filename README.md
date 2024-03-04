@@ -36,9 +36,8 @@ To calculate the plots for highly-symmetric materials you have to do a pretty in
 
 ## Differential Equations and Quantum Computers
 
-
-
-People have ways of solving PDEs on digital computers, and one idea is to translate those methods to be used on a Quantum Computer. Once you have this idea, the steps you take are pretty straightforward. Here are some of the simulations of the Heat and Advection Equations that I did in my undergraduate research, which I ran on my laptop (that's right, I simulated a quantum computer on my laptop - this summarizes the state of the art pretty well...)
+In my undergraduate, I studied how to use Quantum Computers to solve Partial Differential Equations (PDEs) like the Heat Equation.
+People can solve PDEs on digital computers, and I was using the same methods but on a Quantum Computer. Here are some of the simulations of the Heat and Advection Equations. The code is written in Qiskit - you can run the code on actual an Quantum Computer.
 
 
 <p align="center">
