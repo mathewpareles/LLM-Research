@@ -8,7 +8,7 @@ Right now, I'm making a better way to teach people math and science. I also thin
 ## Rotations and Superconductivity
 
 
-The goal of my Master's thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We were unable to prove that this does not work.
+The goal of my Master's thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We showed that you can create instabilities in rotationally symmetric materials more easily than in arbitrary materials.
 
 Here are some of the materials we analyzed (drawn in Reciprocal Space),
 
@@ -20,7 +20,7 @@ Here are some of the materials we analyzed (drawn in Reciprocal Space),
 
 
 
-Spikes in the Density of States (DOS) lead to instabilities in the material, which can lead to topological superconductivity. We computed the Energy Spectrum of the above materials, along with their DOS. In the below plots, you can see that there are spikes in the DOS.
+Spikes in the Density of States (DOS) lead to instabilities in the material, which can lead to topological superconductivity. In the following plots, you can see that there are spikes in the DOS.
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
@@ -31,7 +31,7 @@ Spikes in the Density of States (DOS) lead to instabilities in the material, whi
 
 
 
-In order to accurately simulate the Energy Spectrum of highly-symmetric materials, one has to do a very involved calculation, which I do in my thesis. We were able to show that you can create instabilities in rotationally symmetric materials more easily than in arbitrary materials.
+To accurately simulate the Energy Spectrum of highly-symmetric materials, one has to do a very involved calculation, which I do in my thesis.
 
 
 
