@@ -1,7 +1,7 @@
 # My Work
 
 
-Right now, I'm making a better way to teach people math and science. I also think about ML in my free time. Here are some of my past research interests. 
+Right now, I'm making a better way to teach people math and science. Here are some of my past research interests. 
 
 
 
