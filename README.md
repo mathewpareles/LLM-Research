@@ -13,9 +13,9 @@ The goal of my Masters thesis was to discover a new class of superconducting mat
 Here are the types of materials we analyzed (if you zoom in enough, the material will look like that). 
 
 <p align="center">
-<img src="/images/2.png" alt="4 fold mat" width="150"/>
-<img src="/images/3.png" alt="6 fold mat" width="150"/>
-<img src="/images/4.png" alt="10 fold mat" width="150"/>
+<img src="/images/2.png" alt="4 fold mat" width="250"/>
+<img src="/images/3.png" alt="6 fold mat" width="250"/>
+<img src="/images/4.png" alt="10 fold mat" width="250"/>
 </p>
 
 
