@@ -29,7 +29,7 @@ In the following plots of these materials, you can see that there are spikes in 
 </p>
 
 
-In my thesis, I compute the DOS for very high-symmetry materials including materials that are 8-fold and 10-fold rotationally symmetric.
+In my thesis, I compute the DOS for very high-symmetry materials including 8 and 10-fold rotational symmetries.
 
 
 
