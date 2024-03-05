@@ -45,7 +45,7 @@ In my thesis, I compute the DOS more generally using Perturbation Theory.
 ## Quantum Computing Research
 
 
-In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations. Here are some of the simulations that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer. 
+In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations. Here is a simulation of the Heat Equation that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer. 
 
 <p align="center">
 <img src="/images/0.png" alt="4 fold band" width="400"/>
