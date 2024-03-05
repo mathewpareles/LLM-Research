@@ -6,7 +6,7 @@
 
 ## LLM Interpretability Research
 
-During my Graduate degree, I did research on finding the exact circuitry that GPT-3 uses to solve algebraic equations. Specifically, we wanted to show that GPT-3 was simply learning very simple attention patterns like the "Induction Head", and didn't have an internal representation of the task. 
+During my Graduate degree, I did research on finding the exact circuitry that GPT-3 uses to solve algebraic equations. Specifically, we wanted to show that GPT-3 was learning simple attention patterns like the "Induction Head", and didn't have an internal representation of the task. 
 We found strong evidence for this - as you provide GPT-3 with more of a hint on how to solve the problem, GPT-3's performance increases linearly, without sharp increase as one might expect.
 
 
