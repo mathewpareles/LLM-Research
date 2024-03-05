@@ -29,12 +29,12 @@ Here are some of the materials I studied (drawn in Reciprocal Space).
 
 
 
-In the following diagrams, there are spikes in the DOS, which can lead to instabilities in the material (including topological superconductivity).
+When you calculate the Energy Spectrum, there are spikes in the DOS, which can lead to instabilities in the material (including topological superconductivity).
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
-<img src="/images/6.png" alt="6 fold band" width="400"/>
-<!-- <img src="/images/7.png" alt="10 fold band" width="500"/> -->
+<!-- <img src="/images/6.png" alt="6 fold band" width="400"/> -->
+<!-- <img src="/images/7.png" alt="10 fold band" width="400"/> -->
 </p>
 
 
