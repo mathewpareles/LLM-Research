@@ -37,7 +37,7 @@ We considered various metrics of correctness (whether the model gave the correct
 We tested these cases:
 
 
-- Using various problems sizes (12, 16, and 20 variables)
+- Using various problem sizes (12, 16, and 20 variables)
 
 - Adding spaces and commas between tokens
 
