@@ -9,7 +9,7 @@ This repository analyzes GPT-3's ability to solve reasoning problems when provid
 
 ## Results
 
-Here are plots of our results. Performance scales linearly with the length of the hint.
+We found that performance scales linearly with the length of the hint. Here are our results.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
@@ -31,7 +31,7 @@ We considered various metrics of correctness (whether the model gave the correct
 
 
 
-We thoroughly tested different cases, including the following.
+We thoroughly tested possible edge cases.
 
 
 - Using various problem sizes (12, 16, and 20 variables)
