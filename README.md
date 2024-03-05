@@ -11,8 +11,8 @@ As you provide GPT-3 with more of a hint on how to solve the problem, GPT-3's pe
 
 
 <p align="center">
-<img src="/images/01.png" alt="4 fold mat" width="350"/>
-<img src="/images/02.png" alt="4 fold mat" width="350"/>
+<img src="/images/8.png" alt="gpt linear 1" width="350"/>
+<img src="/images/10.png" alt="gpt linear 2" width="350"/>
 </p>
 
 ## Superconductivity Research
