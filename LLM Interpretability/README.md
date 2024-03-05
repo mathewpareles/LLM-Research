@@ -31,7 +31,7 @@ We considered various metrics of correctness (whether the model gave the correct
 
 
 
-We thoroughly tested possible edge cases.
+We thoroughly tested edge cases.
 
 
 - Using various problem sizes (12, 16, and 20 variables)
