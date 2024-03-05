@@ -45,7 +45,7 @@ In my thesis, I compute the DOS more generally using Perturbation Theory.
 ## Quantum Computing Research
 
 
-In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations including the Heat, Advection, and Burger's Equations. Here's one of my simulations of the Heat Equation - the code is written in Qiskit, so you can run it on actual an Quantum Computer. 
+In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations including the Heat, Advection, and Burger's Equations. Here's one of my simulations of the Heat Equation - the code runs on an actual Quantum Computer. 
 
 <p align="center">
 <img src="/images/0.png" alt="4 fold band" width="400"/>
