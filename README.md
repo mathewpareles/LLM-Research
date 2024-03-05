@@ -1,12 +1,25 @@
 
 
+# My Research
 
-## Superconductivity and Rotations 
 
 
-The goal of my Master's thesis was to discover a new class of superconducting material. Specifically, if a material is rotationally symmetric, the idea is that it might "trap" electrons and allow for the conditions of superconductivity to hold. We showed that you can  more easily create the conditions needed for superconductivity in rotationally symmetric materials than in arbitrary materials.
+## LLM Interpretability Research
 
-Here are some of the materials we analyzed (drawn in Reciprocal Space),
+During my Graduate degree, I did research on finding the exact circuitry that GPT-3 uses to solve algebraic equations. Specifically, we wanted to show that GPT-3 was simply learning very simple attention patterns like the "Induction Head", and didn't have an internal representation of the task. 
+As you provide GPT-3 with more of a hint on how to solve the problem, GPT-3's performance increases linearly. This suggests that GPT-3 does not store an internal representation of the task (one would expect perfect accuracy after a certain number of hints).
+
+
+<p align="center">
+<img src="/images/01.png" alt="4 fold mat" width="350"/>
+<img src="/images/02.png" alt="4 fold mat" width="350"/>
+</p>
+
+## Superconductivity Research
+
+
+The goal of my Master's thesis was to discover a new class of superconducting material. We showed that it's easier to create the conditions for superconductivity in rotationally symmetric materials than in arbitrary materials. 
+Here are some of the materials I studied (drawn in Reciprocal Space).
 
 <p align="center">
 <img src="/images/2.png" alt="4 fold mat" width="250"/>
@@ -16,7 +29,7 @@ Here are some of the materials we analyzed (drawn in Reciprocal Space),
 
 
 
-In the following plots of these materials, you can see that there are spikes in the DOS, which can lead to instabilities in the material (including topological superconductivity).
+In the following diagrams, there are spikes in the DOS, which can lead to instabilities in the material (including topological superconductivity).
 
 <p align="center">
 <img src="/images/5.png" alt="4 fold band" width="400"/>
@@ -25,16 +38,18 @@ In the following plots of these materials, you can see that there are spikes in 
 </p>
 
 
-In my thesis, I compute the DOS for high-symmetry materials beyond the plots shown above.
+In my thesis, I compute the DOS more generally using Perturbation Theory.
 
 
 
-## Quantum Computers and Differential Equations
+## Quantum Computing Research
 
-In my undergrad at Cornell, I came up with ways to use Quantum Computers to solve Partial Differential Equations. Here are some of the simulations of the Heat and Advection Equations that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer. The inaccuracies come from the fact that the Advection Equation is not naturally represented on the Quantum Circuits that we use, and this is a largely unsolved problem in the literature.
 
+In my undergrad at Cornell, I researched ways of using Quantum Computers to solve Partial Differential Equations. Here are some of the simulations that I created. The code is written in Qiskit, so you can run it on actual an Quantum Computer. The Heat Equation (left) is simulated accurately, but Advection Equation (right) builds up significant error and is not naturally represented on the Quantum Circuits that we use. Choosing the best circuit for a particular task is an open problem.
 
 <p align="center">
 <img src="/images/0.png" alt="4 fold band" width="400"/>
 <img src="/images/1.png" alt="6 fold band" width="400"/>
 </p>
+
+
