@@ -1,4 +1,4 @@
-# How does GPT Solve Equations?
+# Goal
 
 
 
