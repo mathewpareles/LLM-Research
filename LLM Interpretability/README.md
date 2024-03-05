@@ -9,7 +9,7 @@ This repository analyzes GPT-3's ability to solve reasoning problems when provid
 
 ## Results
 
-We found that performance scales linearly with the length of the hint. Here are our results.
+We found that performance scales linearly with the length of the provided hint. This is strong evidence that GPT-3 is using a simple attention pattern to produce its results, and does not store an internal representation of the task.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
