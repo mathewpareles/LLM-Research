@@ -11,7 +11,7 @@ We found strong evidence for this - as you provide GPT-3 with more of a hint on 
 
 
 <p align="center">
-<img src="/images/8.png" alt="gpt linear 1" width="350"/>
+<!-- <img src="/images/8.png" alt="gpt linear 1" width="350"/> -->
 <img src="/images/10.png" alt="gpt linear 2" width="350"/>
 </p>
 
