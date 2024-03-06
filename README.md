@@ -2,17 +2,12 @@
 
 
 
-This repository analyzes GPT-3's ability to solve reasoning problems when provided a hint. We find that GPT-3's performance is proportional to the size of hint it is given when solving the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf). 
-
-
-This suggests that at no point does GPT-3 "understand" the task, and that GPT is simply using simple Induction Heads and other simple circuits to produce a response. We hope to find the exact attention pattern that GPT-3 is using to solve this task.
-
-
+This library lets you test GPT-3's reasoning ability. Specifically, you can test GPT-3's accuracy on the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf). This is strong evidence that GPT-3 does not  store an internal representation of the LEGO task, and instead uses Induction Heads and other simple circuits to produce a response. We hope to find the exact attention pattern that GPT-3 is using to solve this task, and we don't think it is complicated.
 
 
 ## Results
 
-Here are plots of our results. This is strong evidence that performance scales linearly with the length of the hint. 
+Here are plots of our results. This is strong evidence that performance scales linearly with the length of the hint, suggesting that it repeatedly uses the same attention pattern.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
@@ -33,8 +28,7 @@ We considered various metrics of correctness (whether the model gave the correct
 ## Cases
 
 
-
-We tested these cases:
+This library tests the following cases:
 
 
 - Using various problem sizes (12, 16, and 20 variables)
