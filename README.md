@@ -1,4 +1,4 @@
-# How does GPT Solve Equations?
+## Does GPT-3 have reasoning skills?
 
 
 
