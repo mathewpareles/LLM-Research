@@ -1,4 +1,4 @@
-## Does GPT-3 have reasoning skills?
+## Can GPT-3 Reason?
 
 
 
