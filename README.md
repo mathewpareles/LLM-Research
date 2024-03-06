@@ -2,7 +2,7 @@
 
 
 
-This repository analyzes GPT-3's ability to solve reasoning problems when provided a hint. We find that GPT-3's performance scales linearly with the length of the hint when solving the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf). 
+This repository analyzes GPT-3's ability to solve reasoning problems when provided a hint. We find that GPT-3's performance is proportional to the size of hint it is given when solving the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf). 
 
 
 This suggests that at no point does GPT-3 "understand" the task, and that GPT is simply using simple Induction Heads and other simple circuits to produce a response. We hope to find the exact attention pattern that GPT-3 is using to solve this task.
