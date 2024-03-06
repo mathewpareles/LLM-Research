@@ -2,10 +2,10 @@
 
 
 
-This library lets you test GPT-3's reasoning ability. Specifically, you can test GPT-3's accuracy on the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf). See the README for more details on how to generate data.
+This library lets you test GPT-3's reasoning ability on the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf). See the README for more details on how to generate data.
 
 
-This data is evidence that GPT-3 does not  store an internal representation of the LEGO reasoning task, and instead uses Induction Heads and other simple circuits to produce a response. We hope to find the exact attention pattern that GPT-3 is using to solve this task, and don't think it is very complicated.
+This data is strong evidence that GPT-3 does not  store an internal representation of the LEGO reasoning task, and instead uses Induction Heads and other simple circuits to produce a response. We hope to find the exact attention pattern that GPT-3 is using to solve this task, and don't think it is very complicated.
 
 
 ## Results
