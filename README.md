@@ -1,4 +1,3 @@
-## Can GPT-3 Reason?
 
 
 
