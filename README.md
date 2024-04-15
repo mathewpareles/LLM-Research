@@ -9,7 +9,7 @@ We generate evidence that GPT-3 does not  store an internal representation of th
 
 ## Results
 
-Here are plots of our results. Performance scales linearly with the length of the hint, suggesting that GPT-3 consistently uses the same attention pattern.
+We find that performance scales linearly with the length of the hint, suggesting that GPT-3 consistently uses the same attention pattern.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
