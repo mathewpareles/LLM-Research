@@ -2,7 +2,6 @@
 
 ## Goal
 
-How does GPT-3 solve reasoning tasks?
 
 
 In this library, we provide evidence that GPT-3 uses simple attention patterns to solve reasoning tasks.
