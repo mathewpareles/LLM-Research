@@ -4,7 +4,7 @@
 This library tests GPT-3's reasoning ability on the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf).
 
 
-We find evidence that GPT-3 consistently solves the LEGO reasoning task using the same attention pattern. We hope to reverse-engineer this attention pattern and make it human-interpretable.
+We find evidence that GPT-3 uses a consistent attention pattern to solve the LEGO reasoning task. We hope to reverse-engineer this attention pattern and make it human-interpretable.
 
 
 ## Results
