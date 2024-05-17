@@ -16,7 +16,9 @@ We hope to reverse-engineer this circuit and make it human-interpretable.
 
 ## Results
 
-We find that GPT-3's performance scales linearly with the length of the hint it is given, on all versions of the LEGO reasoning task we tested. This suggests that GPT-3 uses the same attention pattern each time it solves the task.
+We provide GPT-3 with an input to the LEGO reasoning task, and measure its performance.  
+
+We find that GPT-3's performance scales linearly with the length of the hint it is given, regardless of the size, syntax, or scrambling of the task. This suggests that GPT-3 uses the same attention pattern whenever it solves the task.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
