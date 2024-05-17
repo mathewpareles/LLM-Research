@@ -12,7 +12,7 @@ We hope to reverse-engineer GPT's attention pattern on this task, and make it hu
 
 ## Results
 
-We provide GPT-3 with an input to the LEGO reasoning task, and measure its performance.  
+We measure GPT-3's performance after providing it with the LEGO reasoning task.  
 
 We find that GPT-3's performance scales linearly with the length of the hint it is given, regardless of the size, syntax, or scrambling of the task. This suggests that the model uses the same attention pattern whenever it solves the task.
 
