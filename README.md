@@ -22,7 +22,7 @@ We find that performance scales linearly with the length of the hint, suggesting
 </p>
 
 
-We considered various metrics of correctness (whether the model gave the correct answer verbatim or whether it gave the correct value) and various measurements of accuracy (the number of values correct, the location of the first incorrect response), and they all have a striking linear relationship between the hint size and GPT-3's accuracy.
+We considered various metrics of correctness (whether the model gave the correct answer verbatim or whether it gave the correct value) and various measurements of accuracy (the number of values correct, the location of the first incorrect response), and they all have a striking linear relationship between accuracy and hint-size.
 
 
 
