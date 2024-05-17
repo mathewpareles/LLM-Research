@@ -4,8 +4,7 @@
 
 
 
-In this library, we provide evidence that GPT-3 uses simple attention patterns to solve reasoning tasks.
-
+Here, we argue that GPT's reasoning ability comes from simple attention patterns.
 
 Specifically, we show that GPT-3 uses a consistent method to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf), regardless of the size, syntax, or scrambling of the input. 
 This suggests that GPT-3 has an internal circuit that it consistently relies on during this task. 
