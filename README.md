@@ -9,7 +9,7 @@ We find evidence that GPT-3 uses a consistent attention pattern to solve the LEG
 
 ## Results
 
-We find that performance scales linearly with the length of the hint, suggesting that GPT-3 consistently uses the same attention pattern across many versions of the LEGO reasoning task when given a hint.
+We find that GPT-3's performance scales linearly with the length of the hint it is given, suggesting that GPT-3 consistently uses the same attention pattern across many versions of the LEGO reasoning task.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
