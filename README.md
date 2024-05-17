@@ -8,7 +8,7 @@ How does GPT-3 solve reasoning tasks?
 In this library, we provide evidence that GPT-3 uses simple attention patterns to solve reasoning tasks.
 
 
-Specifically, we show that GPT-3 uses a consistent approach to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf), regardless of the size, syntax, or scrambling of the input. 
+Specifically, we show that GPT-3 uses a consistent method to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf), regardless of the size, syntax, or scrambling of the input. 
 This suggests that GPT-3 has an internal circuit that it consistently uses during this task. 
 
 We hope to reverse-engineer this circuit and make it human-interpretable. 
