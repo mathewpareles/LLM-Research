@@ -4,10 +4,10 @@
 
 
 
-Here, we argue that GPT's reasoning ability comes from simple attention patterns.
+Here, we argue that GPT-3 relies on simple attention patterns like the [Induction Head](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) to solve reasoning tasks.
 
 Specifically, we show that GPT-3 uses a consistent method to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf), regardless of the size, syntax, or scrambling of the input. 
-This suggests that GPT-3 has an internal circuit that it consistently relies on during this task. 
+This suggests that GPT-3 has an internal circuit that it consistently relies on during reasoning tasks. 
 
 We hope to reverse-engineer this circuit and make it human-interpretable. 
 
