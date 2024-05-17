@@ -1,15 +1,18 @@
 
 
+## Goal
 
-This library tests GPT-3's reasoning ability on the LEGO reasoning task (https://arxiv.org/pdf/2206.04301.pdf).
+In this library, we hope to answer the question: "How does GPT-3 solve reasoning tasks?"
 
 
-We find evidence that GPT-3 uses a consistent attention pattern to solve the LEGO reasoning task. We hope to reverse-engineer this attention pattern and make it human-interpretable.
+We provide evidence that GPT-3 uses simple attention patterns to solve reasoning tasks.
+Specifically, we show that GPT-3 uses a consistent approach to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf), regardless of the size, syntax, or scrambling of the input. 
+This suggests that GPT-3 has an internal circuit that it consistently uses to solve this task. Our end goal is to reverse-engineer this circuit and make it human-interpretable. 
 
 
 ## Results
 
-We find that GPT-3's performance scales linearly with the length of the hint it is given, suggesting that GPT-3 consistently uses the same attention pattern across many versions of the LEGO reasoning task.
+We find that GPT-3's performance scales linearly with the length of the hint it is given, on all versions of the LEGO reasoning task that we tested. This suggests that GPT-3 uses the same attention pattern each time it solves the task.
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
