@@ -30,7 +30,7 @@ We find that GPT-3's performance scales linearly with the length of the hint it 
 ## Cases
 
 
-This library tests the following cases:
+We tested the following cases:
 
 
 - Using various problem sizes (12, 16, and 20 variables)
