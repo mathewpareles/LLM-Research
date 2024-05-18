@@ -4,7 +4,7 @@
 
 
 
-We argue that GPT-3 relies on simple attention patterns like the [Induction Head](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) to solve reasoning tasks.
+Here, we argue that GPT-3 relies on simple attention patterns like the [Induction Head](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html) to solve reasoning tasks.
 Specifically, we show that GPT-3 uses a consistent method to solve the [LEGO reasoning task](https://arxiv.org/pdf/2206.04301.pdf) across all versions of the LEGO task.
 
 We hope to reverse-engineer GPT's attention pattern on this task, and make it human-interpretable. 
