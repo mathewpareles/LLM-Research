@@ -16,7 +16,7 @@ We find that GPT-3's performance scales linearly with the length of the hint it 
 
 <p align="center">
 <img src="images/1.png" alt="12 hints 1" width="300"/>
-<img src="images/2.png" alt="12 hints 2" width="300"/>
+<img src="images/22.png" alt="12 hints 2" width="300"/>
 </p>
 
 <p align="center">
