@@ -14,39 +14,38 @@ We iterate:
 
 2) In 'analysis.ipynb':
 
-	We pass the various PROMPTs in './data' to GPT-3
+	We pass the various prompts into './data' to GPT-3
 
-	We then analyze the ACCURACY generated text. The graphs are our result
+	We analyze the accuracy (results are graphs)
 
-3) Tests:
+3) Results:
 
 3.* folders:
 
-	0 0: Do not pad the equals sign '=' with spaces in the SOE, or in the HINT
-	...Other folders are named similarly
-
-	*Padding the equals sign in the HINT is very important toward GPT-3 generating the correct result
+	equals signs are padded with spaces; naming convention is (pad SOE) / (pad hint)
 
 4.* folders:
 
-	*GPT-3 successfully solves SOEs with many variables named numerically "a13 = -b20"
+	variables are named numerically "a13 = -b20"
 
-	*failure: SOE with variables named alphabetically "a = -b"
+	results: GPT-3 successfully solves SOEs with many variables
+
 
 5.* folders:
 
-	*success: variables whose tokens are spaced, ex. "a 1 0 = -b 7 2"
+	variables have spaces/commas between tokens. For example: "a 1 0 = -b 7 2" or "a,1,0 = -b,7,2"
 
-	*success when using a small SOE: variables whose tokens have commas between them, ex. "a,1,0 = -b,7,2"
+	results: successful in small-length regime
 
 6.* folders:
-	
-	*success: variables that are words, ex "the lazy = - dog"
 
+	variables are words "the lazy = - dog"
+
+	results: successful
 
 
 4) Main question
 
-	What is the underlying attention pattern here (i.e. the "circuit")? Does it generalize to other reasoning tasks?
+	What is the underlying attention pattern? Does it generalize to other reasoning tasks?
 	
 
