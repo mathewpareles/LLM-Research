@@ -44,7 +44,7 @@ We iterate:
 	results: successful
 
 
-4) Main question
+4) Future work
 
 	What is the underlying attention pattern? Does it generalize to other reasoning tasks?
 	
