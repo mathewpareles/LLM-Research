@@ -45,5 +45,5 @@ We tested the following cases:
 
 ## Contributors
 
-- Written by Mathew Pareles
-- Advised by Michael Douglas (Harvard/Stony Brook)
+- Mathew Pareles
+- Advised by Prof. Michael Douglas (Harvard/Stony Brook)
