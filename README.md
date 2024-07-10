@@ -46,4 +46,4 @@ We tested the following cases:
 ## Contributors
 
 - Mathew Pareles
-- Advised by Prof. Michael Douglas (Harvard/Stony Brook)
+- Advised by Prof. Michael Douglas (Harvard/Simons Center for Geometry and Physics)
