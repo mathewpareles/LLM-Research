@@ -43,4 +43,7 @@ We tested the following cases:
 
 - Padding the equals sign in the system of equations
 
+## Contributors
 
+- Written by Mathew Pareles
+- Advised by Michael Douglas (Harvard/Stony Brook)
